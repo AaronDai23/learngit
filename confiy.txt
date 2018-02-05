@@ -1,0 +1,36 @@
+[
+  {
+    "command": "Supplier ID",
+    "isSave": "YES",
+    "isPDCA": "YES",
+    "unit": "",
+    "isNumber": "YES",
+    "subitems": [
+      {
+        "subitemName": "Supplier ID",
+        "startStr": "Supplier IDVA_SuppID =",
+        "finishStr": "@_@",
+        "max": "221",
+        "min": "221",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "command": "Supplier ID",
+    "isSave": "YES",
+    "isPDCA": "YES",
+    "unit": "",
+    "isNumber": "YES",
+    "subitems": [
+      {
+        "subitemName": "Supplier ID",
+        "startStr": "Supplier IDVA_SuppID =",
+        "finishStr": "@_@",
+        "max": "221",
+        "min": "221",
+        "value": ""
+      }
+    ]
+  }
+]
